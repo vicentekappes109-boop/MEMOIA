@@ -2,5 +2,6 @@
 frames/
 sheets/
 *.py
-ffcmd.txt
+*.txt
 video_calzado_v2.mp4
+video_calzado_v3.mp4
