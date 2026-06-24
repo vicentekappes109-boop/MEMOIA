@@ -1,0 +1,6 @@
+# Working artifacts de edicion de video (no versionar)
+frames/
+sheets/
+*.py
+ffcmd.txt
+video_calzado_v2.mp4
