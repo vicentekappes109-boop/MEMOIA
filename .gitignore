@@ -3,6 +3,9 @@ frames/
 sheets/
 *.py
 *.txt
+*.wav
+*.json
 video_calzado_v2.mp4
 video_calzado_v3.mp4
 video_calzado_v4.mp4
+video_calzado_v5.mp4
